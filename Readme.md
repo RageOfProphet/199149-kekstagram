@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Сергей Пахунов](https://up.htmlacademy.ru/javascript/8/user/199149).
-* Наставник: `Неизвестно`.
+* Наставник: `Пока нет`.
 
 ---
 
